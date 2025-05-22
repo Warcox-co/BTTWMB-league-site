@@ -15,7 +15,7 @@ function Home() {
 
 function App() {
   return (
-    <Router>
+    <Router basename="/BTTWMB-league-site">
       <div className="app-container">
         <header className="site-header">
           <img src={leagueHeader} alt="League Header" className="league-header-image" />
