@@ -1,6 +1,6 @@
 import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom'
 import Teams from './components/Teams'
-import leagueHeader from './assets/theLeagueHeader.avif'
+import leagueHeader from './assets/theLeagueHeader.png'
 import './App.css'
 
 function Home() {
